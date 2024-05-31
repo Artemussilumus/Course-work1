@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RadioSessions>
+	<Session>
+		<Name>Morning Jazz</Name>
+		<Frequency>95.5</Frequency>
+		<Date>2024-05-28</Date>
+		<StartTime>06:00</StartTime>
+		<EndTime>09:00</EndTime>
+		<AmountOfData>250</AmountOfData>
+	</Session>
+	<Session>
+		<Name>Classic Rock</Name>
+		<Frequency>102.3</Frequency>
+		<Date>2024-05-28</Date>
+		<StartTime>09:00</StartTime>
+		<EndTime>12:00</EndTime>
+		<AmountOfData>300</AmountOfData>
+	</Session>
+	<Session>
+		<Name>News Hour</Name>
+		<Frequency>88.1</Frequency>
+		<Date>2024-05-28</Date>
+		<StartTime>12:00</StartTime>
+		<EndTime>13:00</EndTime>
+		<AmountOfData>100</AmountOfData>
+	</Session>
+	<Session>
+		<Name>Afternoon Pop</Name>
+		<Frequency>99.9</Frequency>
+		<Date>2024-05-28</Date>
+		<StartTime>13:00</StartTime>
+		<EndTime>17:00</EndTime>
+		<AmountOfData>400</AmountOfData>
+	</Session>
+	<Session>
+		<Name>Evening Talk</Name>
+		<Frequency>105.7</Frequency>
+		<Date>2024-05-28</Date>
+		<StartTime>17:00</StartTime>
+		<EndTime>19:00</EndTime>
+		<AmountOfData>200</AmountOfData>
+	</Session>
+</RadioSessions>
